@@ -1,0 +1,17 @@
+meu_projeto_ml/
+├── data/
+│   ├── raw/                 # Dados brutos
+│   ├── processed/           # Dados processados
+│   └── external/            # Dados de fontes externas
+├── notebooks/              # Jupyter notebooks exploratórios
+├── src/
+│   ├── data_preprocessing/ # Scripts de pré-processamento
+│   ├── features/           # Engenharia de features
+│   ├── models/             # Definição e treino de modelos
+│   ├── evaluation/         # Avaliação de modelos
+│   └── deployment/         # Scripts de implantação
+├── models/                 # Modelos treinados salvos
+├── tests/                  # Testes unitários
+├── docs/                   # Documentação
+├── requirements.txt        # Dependências do projeto
+└── README.md              # Descrição do projeto
