@@ -6,6 +6,7 @@ meu_projeto_ml/
 ├── notebooks/              # Jupyter notebooks exploratórios
 ├── src/
 │   ├── data_preprocessing/ # Scripts de pré-processamento
+│   ├── data_validation/     # Scripts de validação de dados
 │   ├── features/           # Engenharia de features
 │   ├── models/             # Definição e treino de modelos
 │   ├── evaluation/         # Avaliação de modelos
